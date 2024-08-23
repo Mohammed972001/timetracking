@@ -1,0 +1,51 @@
+.card {
+  background-color: #1c1f4a;
+  border-radius: 15px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  overflow: hidden;
+  width: 200px; /* حجم الكارد */
+  height: 200px; /* طول الكارد */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.icon-container {
+  background-color:; 
+  border-radius: 15px 15px 0 0; 
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+  
+}
+
+.icon {
+  width: 30px;
+  height: 0px;
+  
+}
+
+.content {
+  padding: 30px;
+  background-color: var(--dark-blue);
+  border-radius: 15px 15px 15px 15px; 
+  text-align: left;
+}
+
+.content h3 {
+  font-size: 16px;
+  padding-top: 0px; 
+  margin-bottom: 20px;
+}
+
+.content p {
+  font-size: 45px;
+  margin-bottom: 5px;
+}
+
+.content small {
+  color: #bbb;
+  font-size: 12px;
+}

@@ -1,0 +1,19 @@
+.continer {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+  }
+ .profile-card{
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+ }
+
+  @media screen and (min-width: 768px) {
+    .App {
+      width: 75% !important;
+      display: flex;
+      gap: 20px;
+    }
+  }

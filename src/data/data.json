@@ -1,0 +1,27 @@
+{
+    "daily": [
+      { "title": "Work", "hours": 5, "lastWeek": 7 },
+      { "title": "Play", "hours": 1, "lastWeek": 2 },
+      { "title": "Study", "hours": 2, "lastWeek": 3 },
+      { "title": "Exercise", "hours": 1, "lastWeek": 1 },
+      { "title": "Social", "hours": 3, "lastWeek": 4 },
+      { "title": "Self Care", "hours": 1, "lastWeek": 2 }
+    ],
+    "weekly": [
+      { "title": "Work", "hours": 32, "lastWeek": 36 },
+      { "title": "Play", "hours": 10, "lastWeek": 8 },
+      { "title": "Study", "hours": 4, "lastWeek": 7 },
+      { "title": "Exercise", "hours": 4, "lastWeek": 5 },
+      { "title": "Social", "hours": 5, "lastWeek": 10 },
+      { "title": "Self Care", "hours": 2, "lastWeek": 2 }
+    ],
+    "monthly": [
+      { "title": "Work", "hours": 128, "lastWeek": 142 },
+      { "title": "Play", "hours": 40, "lastWeek": 32 },
+      { "title": "Study", "hours": 16, "lastWeek": 28 },
+      { "title": "Exercise", "hours": 16, "lastWeek": 20 },
+      { "title": "Social", "hours": 20, "lastWeek": 40 },
+      { "title": "Self Care", "hours": 8, "lastWeek": 8 }
+    ]
+  }
+  

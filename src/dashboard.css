@@ -1,0 +1,15 @@
+.dashboard {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+    /* background-color: #0b0d24; */
+  }
+  
+  /* .card {
+    background-color: #1c1e33;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+  } */
